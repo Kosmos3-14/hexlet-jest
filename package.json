@@ -3,12 +3,19 @@
   "version": "1.0.0",
   "description": "learning jest",
   "type": "module",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kosmos3-14/hexlet-jest.git"
+  },
+  "author": "kosmos3-14",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kosmos3-14/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/Kosmos3-14/hexlet-jest#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   }
