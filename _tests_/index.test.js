@@ -1,3 +1,5 @@
+/* eslint-env jest */
+
 import reverse from '../src/index.js';
 
 test('reverse', () => {
